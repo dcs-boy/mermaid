@@ -16,6 +16,7 @@ architecture-beta
     db:L -- R:server
     disk1:T -- B:server
     disk2:T -- B:db
+
 ```
 
 ## Syntax
